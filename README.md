@@ -79,3 +79,9 @@ Harini is built using a modern stack of AI-first tools and frameworks to deliver
 # 📞 Bland AI: 
 Powers the voice-calling capability, enabling Harini to initiate real-time phone calls for appointment confirmations or follow-ups, adding a human touch to digital interactions.
 
+
+
+## 🎥 Demo
+
+![Demo Video](output.mp4)
+
