@@ -81,7 +81,14 @@ Powers the voice-calling capability, enabling Harini to initiate real-time phone
 
 
 
-## 🎥 Demo
+[## 🎥 Demo
 
-![Demo Video](output.mp4)
+![Demo Video](output.mp4)](https://youtu.be/GX7_fcz4IAA)
 
+<h3>📽 Demo Video</h3>
+
+<p align="center">
+  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=GX7_fcz4IAA&ab_channel=ShreyankIsiri)">
+    <img src="[https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddemo&psig=AOvVaw1Z5dQ7U97fm_hRvfYHyRNp&ust=1743952758242000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiGxLuYwYwDFQAAAAAdAAAAABAJ)" alt="Watch the video" width="500"/>
+  </a>
+</p>
